@@ -60,7 +60,7 @@ footer{
 	text-align: center;
 }
 
-#the-portrait-of-mr-w-h-2 blockquote:nth-of-type(5)footer{
+#the-portrait-of-mr-w-h-2 blockquote:nth-of-type(5) footer{
 	margin-top: 1em;
 	text-align: right;
 }
@@ -86,4 +86,16 @@ footer{
 
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
+}
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i4{
+	text-indent: -1em;
+	padding-left: 5em;
+}
+section{
+	break-after: page;
 }
