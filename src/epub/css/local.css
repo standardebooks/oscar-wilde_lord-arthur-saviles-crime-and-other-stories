@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -15,13 +10,11 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
 
 [epub|type~="z3998:sender"],
-[epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
@@ -32,49 +25,12 @@ footer{
 	text-align: left;
 }
 
-.signature{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-}
-
-#the-canterville-ghost blockquote:nth-of-type(1){
-	margin-left: auto;
-	margin-right: auto;
-	width: 80%;
-}
-
-#the-canterville-ghost blockquote:nth-of-type(1) > p:first-child{
-	font-variant: small-caps;
-	margin-bottom: 1em;
-}
-
-#the-canterville-ghost blockquote:nth-of-type(1) p{
-	text-align: center;
-	text-indent: 0;
-}
-
-#the-portrait-of-mr-w-h-2 blockquote:nth-of-type(5){
-	margin-left: auto;
-	margin-right: auto;
-	width: 80%;
-	font-variant: small-caps;
-	text-align: center;
-}
-
-#the-portrait-of-mr-w-h-2 blockquote:nth-of-type(5) footer{
-	margin-top: 1em;
-	text-align: right;
 }
 
 [epub|type~="z3998:poem"] p{
 	text-align: left;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
-}
-
-[epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
 
@@ -87,6 +43,7 @@ footer{
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
+
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
@@ -96,6 +53,7 @@ p span.i4{
 	text-indent: -1em;
 	padding-left: 5em;
 }
-section{
-	break-after: page;
+
+.signature{
+	font-variant: small-caps;
 }
