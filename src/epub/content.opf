@@ -39,8 +39,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Oscar Wilde’s short mysteries.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This collection of short mystery stories by &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; was originally published in 1891 and was his second published collection of stories. The 1907 edition, published after his death, which added the 1889 “The Portrait of Mr. W. H.” is reproduced here.&lt;/p&gt;
-			&lt;p&gt;Written around the same time as &lt;i&gt;Dorian Gray&lt;/i&gt; and before he turned his hand to playwriting, these stories showcase the quintessential Wilde: darkly comical combined with his incisive dissection of Victorian society.&lt;/p&gt;
+			&lt;p&gt;This collection of short “mystery” stories by &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; was originally published in 1891 and was his second published collection of stories. The 1907 edition, published after his death, which added the 1889 “The Portrait of Mr. W. H.” is reproduced here.&lt;/p&gt;
+			&lt;p&gt;Written around the same time as &lt;i&gt;Dorian Gray&lt;/i&gt; and before he turned his hand to playwriting, these stories showcase the quintessential Wilde: darkly ironic combined with his incisive dissection of Victorian society, with just a hint of the supernatural added to amuse and engage his Victorian audience.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/773</dc:source>
