@@ -57,3 +57,12 @@ p span.i4{
 .signature{
 	font-variant: small-caps;
 }
+
+#the-canterville-ghost-3 {
+	text-align:center;
+}
+
+#the-portrait-of-mr-w-h-2 blockquote:nth-of-type(5){
+	text-align:center;
+	font-variant: small-caps;
+}
