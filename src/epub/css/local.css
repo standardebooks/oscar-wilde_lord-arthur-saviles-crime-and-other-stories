@@ -54,6 +54,11 @@ p span.i4{
 	padding-left: 5em;
 }
 
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
+
 #the-canterville-ghost-3 blockquote{
 	text-align: center;
 }
