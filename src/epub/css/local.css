@@ -59,8 +59,9 @@ span.elision{
 	margin-left: 3em;
 }
 
-#the-canterville-ghost-3 blockquote{
+#the-canterville-ghost-3 blockquote p{
 	text-align: center;
+	text-indent: 0;
 }
 
 #the-portrait-of-mr-w-h-2 blockquote:nth-of-type(5){
