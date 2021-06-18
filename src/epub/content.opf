@@ -47,7 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/773</dc:source>
 		<dc:source>https://archive.org/details/lordarthursavile00wilduoft</dc:source>
 		<meta property="se:word-count">39714</meta>
-		<meta property="se:reading-ease.flesch">68.1</meta>
+		<meta property="se:reading-ease.flesch">68.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lord_Arthur_Savile%27s_Crime_and_Other_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oscar-wilde_lord-arthur-saviles-crime-and-other-stories</meta>
 		<dc:creator id="author">Oscar Wilde</dc:creator>
