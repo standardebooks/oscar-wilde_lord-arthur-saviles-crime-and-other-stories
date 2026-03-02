@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="lord-arthur-saviles-crime.xhtml">
-		<ignore>
-			<code>t-007</code>
+		<ignore code="t-007">
 			<reason>Possessive is part of the newspaper title.</reason>
 		</ignore>
 	</file>
