@@ -2,6 +2,8 @@
 <se-lint-ignore>
 	<file path="lord-arthur-saviles-crime.xhtml">
 		<ignore code="t-007">
+			<line>209</line>
+			<line>240</line>
 			<reason>Possessive is part of the newspaper title.</reason>
 		</ignore>
 	</file>
