@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/oscar-wilde/lord-arthur-saviles-crime-and-other-stories</dc:identifier>
 		<dc:date>2020-11-20T00:34:59Z</dc:date>
@@ -39,11 +39,11 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of Oscar Wilde’s short mysteries.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Oscar Wilde’s short mysteries.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;This collection of short “mystery” stories by &lt;a href="https://standardebooks.org/ebooks/oscar-wilde"&gt;Oscar Wilde&lt;/a&gt; was originally published in 1891 and was his second published collection of stories. This edition follows the 1907 edition, which was published after his death and added “The Portrait of Mr. W. H.,” a story first published in 1899.&lt;/p&gt;
 			&lt;p&gt;Written around the same time as &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray"&gt;The Picture of Dorian Gray&lt;/a&gt;&lt;/i&gt; and before he turned his hand to playwriting, these stories showcase the quintessential Wilde: dark irony combined with an incisive dissection of Victorian society, with just a hint of the supernatural added to amuse and engage his Victorian audience.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/773</dc:source>
 		<dc:source>https://archive.org/details/lordarthursavile00wilduoft</dc:source>
